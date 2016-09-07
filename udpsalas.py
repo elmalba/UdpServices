@@ -1,5 +1,12 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 from core.core import *
 from core.crypto import *
+
+from services.Documentos_portal import documentos
+
+app.register_blueprint(documentos, url_prefix='/Documentos')
+
 def login(user, passwd):
     consulta_1 = {'rut': user}
     alumno = Alumnosx.query.filter(consulta_1).first()
@@ -31,9 +38,6 @@ def login(user, passwd):
     return jsonify(codigos=Codigos,cursos=cursos_xo)
 
 
-from flask_restful import reqparse, abort, Api, Resource
-
-api = Api(app)
 
 @app.route('/Cursos.js', methods=['GET'])
 def Curso_js():
@@ -49,36 +53,65 @@ def Curso_js():
     return js
 
 
-# class Cursos(Resource):
-#     def get(self):
-#         try:
-#             usuario,passwd=decode_token(request.args['token'])
-#             return login(usuario, passwd)
-#         except:
-#             ob = {'resultados': "Usuario y/o password invalidos"}
-#             print ob
-#             return ob
-#
-#     def post(self):
-#
-#         try:
-#             usuario,passwd=decode_token(request.json['token'])
-#             return login(usuario, passwd)
-#
-#             pass
-#         except:
-#             ob = {'resultados': "Usuario y/o password invalidos"}
-#             return ob
-#
-#
-# api.add_resource(Cursos, '/Cursos')
+
+@app.route("/Eventos.js")
+def Eventos():
+    Eventos=[]
+    Evento={}
+    Evento['fecha']="07/06/2016"
+    Evento['sala']="de Estudios piso -1"
+    Evento['bloque']="10:00 - 13:00"
+    Evento['curso']="Mecanica"
+    Evento['cursos']=["CBF1000"]
+    Evento['profesor']="CAEA UDP"
+    Evento['tipo']="Mesa de Estudio"
+
+    output=[]
+    for evento in Evento['cursos']:
+        for curso in  Cursos.query.filter({'codigo':{ '$regex': evento} }).all():
+            output.append(curso.mongo_id)
+    Evento['output']=output
+    Eventos.append(Evento)
 
 
-class Documentos(Resource):
-    def get(self, curso_id):
-        Curso = Cursosx.query.get(curso_id)
-        return Curso.documentos
-api.add_resource(Documentos, '/Documentos/<curso_id>')
+    Evento={}
+    Evento['fecha']="07/06/2016"
+    Evento['sala']="de Estudios piso -1"
+    Evento['bloque']="14:00 - 17:00"
+    Evento['curso']="Calculo I"
+    Evento['cursos']=["CBM1001"]
+    Evento['profesor']="CAEA UDP"
+    Evento['tipo']="Mesa de Estudio"
+
+    output=[]
+    for evento in Evento['cursos']:
+        for curso in  Cursos.query.filter({'codigo':{ '$regex': evento} }).all():
+            output.append(curso.mongo_id)
+    Evento['output']=output
+    Eventos.append(Evento)
+
+
+    Evento={}
+    Evento['fecha']="07/06/2016"
+    Evento['sala']="de Estudios piso -1"
+    Evento['bloque']="14:00 - 17:00"
+    Evento['curso']="Algebra y Geometria"
+    Evento['cursos']=["CBM1000"]
+    Evento['profesor']="CAEA UDP"
+    Evento['tipo']="Mesa de Estudio"
+
+    output=[]
+    for evento in Evento['cursos']:
+        for curso in  Cursos.query.filter({'codigo':{ '$regex': evento} }).all():
+            output.append(curso.mongo_id)
+    Evento['output']=output
+    Eventos.append(Evento)
+
+
+    Eventos.reverse()
+    return render_template("eventos.js", Eventos=Eventos)
+
+
 
 
 

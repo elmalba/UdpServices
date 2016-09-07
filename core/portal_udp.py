@@ -228,6 +228,9 @@ def Portal2(username,password,drivers=None):
     EXPORT['data']    = DATA
     EXPORT['nombre']  = nombre
     EXPORT['codigos'] = Codigos
+    driver.get('http://alumno.udp.cl/Pages/ResultadoCargaAcademica.aspx')
+    elem2 = driver.find_element_by_id("ctl00_axmnuMenu_DXI3_T")
+    elem2.click()
     if drivers==None:
         driver.close()
     return EXPORT
@@ -284,4 +287,4 @@ def Login_update(user,passwd,drivers):
 
 
 
-#Login("18020677-9","mmae2010")
+#Login_alumnos("18020677-9","mmae2010")

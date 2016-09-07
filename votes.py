@@ -203,9 +203,7 @@ def reset():
 
 api.add_resource(Votar, '/Votar')
 api.add_resource(Register, '/Register_udpCursos')
-@app.errorhandler(404)
-def page_not_found(e):
-    return redirect("https://udpcursos.com")
+
 
 if __name__ == '__main__':
 	#Load_db()
