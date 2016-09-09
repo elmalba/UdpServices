@@ -73,7 +73,7 @@ def portar_db():
     ixx=0
 
     print "aca"
-    for alumno in Alumnos.query.filter({'sapstatus':'Portado','full_name':{'$exists':True}}).all():
+    for alumno in Alumnos.query.filter({'rut':'196785426'}).all():
         print "aqui"
         url= "http://localhost:8000/%s.txt"%(alumno.rut)
         print url
@@ -110,6 +110,7 @@ def portar_db():
                         xc.facultad = ""
                         xc.keyp=[]
                         xc.keya=[]
+                        xc.ayudante=""
                         try:
                             xc.documentos=Cursos[curso]['documentos']
                         except:
@@ -140,7 +141,6 @@ def portar_db():
                                 print "update"
                         except:
                             pass
-            if False:
                 alumno.estado=data['estado']
                 alumno.firstname = data['firstname']
                 alumno.lastname= data['lastname']
@@ -148,6 +148,7 @@ def portar_db():
                 alumno.registro=data['cursos']
                 alumno.promedio=data['promedio']
                 alumno.ranking_u=data['rankingcarrera']
+                alumno.dropbox=""
                 alumno.cursos=Cursos.keys()
                 alumno.sapstatus = "Portado"
             if False :
@@ -155,7 +156,7 @@ def portar_db():
                 alumno.lastname= ""
                 alumno.sapstatus = data['motivo']
 
-            #alumno.save()
+            alumno.save()
 
 
 
@@ -222,8 +223,8 @@ def norm_cursos():
             print "curl -o \"%s/%s\" \"%s\""%(curso.codigo,documento['archivo'],documento['url'])
 
 #portar_db()
-norm_cursos()
-#portar_db()
+#norm_cursos()
+portar_db()
 #correos()
 
 #notificar_correcta()
