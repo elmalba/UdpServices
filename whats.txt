@@ -1,0 +1,281 @@
+
+python yowsup-cli demos -s  56973398632 "Estimado FELIPE IGNACIO AGUAYO QUEZADA tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56973398632 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56968520116 "Estimado GABRIEL IGNACIO FAURE ARIAS tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56968520116 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56963636176 "Estimado CAMILO NICOLAS CARRASCO FONTANILLA tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56963636176 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56982891580 "Estimado DIEGO IGNACIO CARREÑO MONTENEGRO tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56982891580 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56982851260 "Estimado VÍCTOR ALEXIS FARÍAS SOTO tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56982851260 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56981807571 "Estimado YERKO ALEXANDERS FUENTES GAVILAN tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56981807571 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56991453517 "Estimado MARCELO IGNACIO RAMÍREZ RODRÍGUEZ tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56991453517 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56944388351 "Estimado RODRIGO IGNACIO GARCÍA TORRES tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56944388351 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56962292557 "Estimado OSVALDO FELIPE LUPAYANTE LERTORA tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56962292557 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56995059688 "Estimado CRISTIAN GONZALO MALDONADO ROMAN tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56995059688 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56978461681 "Estimado JAVIERA DEL PILAR ARAYA MUÑOZ tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56978461681 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56987475965 "Estimado MARIO ERNESTO FREED HUICI tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56987475965 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56995470221 "Estimado NICOLÁS ALBERTO ORREGO ELISSETCHE tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56995470221 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56981852639 "Estimado CONSTANZA CATALINA ARAYA SANTANA tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56981852639 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56968312139 "Estimado WILLIAMS ANTONIO CUEVAS ZUÑIGA tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56968312139 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56993183859 "Estimado CATALINA ISIDORA URBINA RODRÍGUEZ tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56993183859 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56985467564 "Estimado NICOLAS ANDRÉS ALEGRÍA SANTIS tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56985467564 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56957284082 "Estimado KATHERINE SAMANTHA BRANT JARA tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56957284082 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56992724063 "Estimado ANA BELÉN CHAVEZ ARENAS tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56992724063 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56997430614 "Estimado MARIO ANTONIO SAURI DAILLE tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56997430614 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56957427805 "Estimado CATHERINE DANIELA NAVARRETE ÁVILA tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56957427805 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56961230488 "Estimado CAMILA DEL PILAR GUZMÁN PAZ tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56961230488 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56954212013 "Estimado FRANCISCO ESTEBAN TORRES VASQUEZ tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56954212013 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56958958688 "Estimado DANIELA IGNACIA MENDOZA LÓPEZ tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56958958688 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56954284562 "Estimado NATALIA FRANCISCA VARGAS COFRE tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56954284562 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56965980254 "Estimado SEBASTIÁN  SALINAS LAGOS tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56965980254 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56996554387 "Estimado DANIELA IGNACIA MARMOLEJO GAMBOA tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56996554387 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56982344073 "Estimado PAULINA GABRIELA RAMOS CERDA tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56982344073 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56974959107 "Estimado MARÍA JOSÉ CÓRDOVA VILLA tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56974959107 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56981342275 "Estimado DAIAN CYBELL VICENCIO DONOSO tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56981342275 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56988041100 "Estimado CRISTIAN IGNACIO GARRIDO MACÍAS tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56988041100 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56993050937 "Estimado SOFÍA ANDREA BARRIENTOS REBOLLEDO tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56993050937 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56964894887 "Estimado PASTOR  AGUIRRE TAPIA tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56964894887 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56956665223 "Estimado XIMENA  VEGA SILVA tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56956665223 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56948484388 "Estimado FRANCO MANUEL ACUÑA AGUILERA tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56948484388 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56942735397 "Estimado RAMÓN IGNACIO PUENTE NIETO tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56942735397 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56991423189 "Estimado DAEL JONATHAN ANDREE VEJAR SÁNCHEZ tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56991423189 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56956090142 "Estimado PATRICIO ANTONIO CHAMORRO MIÑO tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56956090142 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56963936629 "Estimado JAVIERA VALENTINA MONSALVE PIZARRO tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56963936629 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56984259797 "Estimado FRANCISCO ALEJANDRO CASTEL APALA tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56984259797 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56945337503 "Estimado CATHERINE ALEXANDRA CUEVAS MARTÍNEZ tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56945337503 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56988245661 "Estimado THOMAS  CANCINO LASTRA tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56988245661 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56964437445 "Estimado TANIA NICOLE GARAY CONTRERAS tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56964437445 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56995769236 "Estimado ARACELI PAZ ar190806 tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56995769236 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56998868405 "Estimado FELIPE GABRIEL ÁLVAREZ MUÑOZ tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56998868405 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56985234500 "Estimado CAROLINA ALEXANDRA LOBOS RAMÍREZ tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56985234500 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56982536326 "Estimado FELIPE ANDRÉS BROUGHTON GUERRA tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56982536326 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56982200843 "Estimado GONZALO ALEJANDRO CASTILLO ARAVENA tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56982200843 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56992591074 "Estimado GONZALO ANTONIO RAMÍREZ RODRÍGUEZ tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56992591074 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56977482460 "Estimado BENJAMÍN JESÚS ISAMIT CANO tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56977482460 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56992213787 "Estimado NATALIA JUDITH CONTRERAS CARREÑO tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56992213787 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56978789103 "Estimado CAMILA DEL CARMEN SOTO IGLESIAS tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56978789103 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56993259201 "Estimado BENJAMIN IGNACIO CONTRERAS STOLTZE tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56993259201 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56968377862 "Estimado JAVIER OSVALDO ROMAN AVILA tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56968377862 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56975498771 "Estimado PABLO IGNACIO ZAPATA ZÚÑIGA tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56975498771 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56997307291 "Estimado CHRISTIAN EDUARDO celb1996 tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56997307291 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56950152748 "Estimado LEANDRO ANTONIO VALENZUELA PALLERANO tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56950152748 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56968433582 "Estimado SCARLETT ARACELI VIDELA LANDERO tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56968433582 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56975386793 "Estimado DAVID IGNACIO IBARRA VIDELA tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56975386793 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56974634494 "Estimado SEBASTIAN NICOLAS VERA INZUNZA tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56974634494 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56979538573 "Estimado FABIAN ALEJANDRO VILLANUEVA AITKEN tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56979538573 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56986630855 "Estimado DIEGO AGUSTIN NARANJO HERNANDEZ tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56986630855 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56972184683 "Estimado CONSUELO BELEN MUÑOZ PINO tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56972184683 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56988183474 "Estimado DANTE ALEJANDRO udp2016.1017 tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56988183474 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56985810612 "Estimado CARLOS FABIÁN PINTO BÓRQUEZ tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56985810612 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56942632921 "Estimado PAUL ALEXANDER OH ESCOBAR tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56942632921 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56994016345 "Estimado EMILIA FRANCISCA VERGARA PINEDA tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56994016345 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56997558473 "Estimado DIEGO IGNACIO AHUMADA GONZALEZ tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56997558473 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56995857756 "Estimado ARIEL ALEJANDRO cronaldo7 tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56995857756 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4
+python yowsup-cli demos -s  56969036718 "Estimado DOMINGO DAVID MEDINA VILLA tu cuenta sap ya es compatible con udpcursos "  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep 1
+python yowsup-cli demos -s  56969036718 "por lo que ya puedes entrar a https://udpcursos.com incluso desde tu celular o tablet :)"  -l 56984185094:"R/65WaYGpTaxWHAyg/vQMEE2Zl0="
+sleep4

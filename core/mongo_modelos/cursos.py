@@ -17,7 +17,7 @@ class Salas_clases(object):
         output['sala'] = self.sala
         output['dia'] = self.dia
         return output
-class Cursos(db.Document):
+class cursos(db.Document):
     codigo = db.StringField()
     curso = db.StringField()
     profesor = db.StringField()
@@ -67,5 +67,5 @@ class Cursos(db.Document):
 
         return ARX
 
-Cursos=Cursos
+Cursos=cursos
 Cursosx = Cursos

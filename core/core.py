@@ -31,9 +31,9 @@ from datetime import datetime,timedelta
 dia = datetime.now()+timedelta(days=1)
 
 
-@app.errorhandler(404)
-def page_not_found(e):
-    return redirect("https://udpcursos.com")
+# @app.errorhandler(404)
+# def page_not_found(e):
+#     return redirect("https://udpcursos.com")
 
 
 
